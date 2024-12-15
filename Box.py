@@ -77,8 +77,9 @@ def store_good_password(password):
 
 # Main function to perform the brute-force attempt
 def main():
-    username = "codelearnerx"  # Replace with your username
-    password_file = "pass.txt"  # Replace with your password file path
+    # Take username and password file as input
+    username = input("Enter the Instagram username: ")  # User input for username
+    password_file = input("Enter the password file path (e.g., pass.txt): ")  # User input for password file path
 
     # Read passwords from the file
     passwords = read_passwords(password_file)
