@@ -17,9 +17,8 @@ def Logo():
     ██████████████████████████████████████████████████
 
     ==============================================
-    [developer] => FaLaH - 0xfff0800 
-    [developer_email] => flaaah777@gmail.com
-    [developer_snapchat] => flaah999
+    [developer] => Taj BOSS 
+    [developer_email] => --------
     ==============================================
 
     ''')
